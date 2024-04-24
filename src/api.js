@@ -1,4 +1,7 @@
 import axios from 'axios';
+import adapter from "axios/lib/adapters/http";
+
+axios.defaults.adapter = adapter;
 
 export class API {
 
