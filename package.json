@@ -23,7 +23,8 @@
   },
   "overrides": {
     "es5-ext": "0.10.53",
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "typescript": "4.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
